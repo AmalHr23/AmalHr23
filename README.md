@@ -4,30 +4,12 @@
 I build clean, responsive web interfaces and enjoy turning designs into production-ready UI.
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazdibDNldnB0ZTU4enM3bWdjd2xzZmExamtqcjFyZmpzeW9mamtueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" alt="Coder image" width="300">
-
 ---
 
 ## 🔎 About Me
 - Focused on **Front-End development** with **React**
-- Interested in **UI/UX**, **responsive design**
+- Interested in **UI/UX** and **responsive design**
 - Comfortable integrating UIs with **REST APIs** and handling forms & validation
-
----
-
-## 🧰 Tech Stack
-**Front-End**
-- React, JavaScript (ES6+), HTML5, CSS3
-
-**UI / Styling**
-- Tailwind CSS / Ant Design
-- Figma (design handoff)
-
-**Data / Integration**
-- Axios 
-- Form validation
-
-**Tools**
-- Git & GitHub
 
 ---
 
@@ -35,7 +17,7 @@ I build clean, responsive web interfaces and enjoy turning designs into producti
 <p align="center">
   <a href="https://linkedin.com/in/amal-alharthi-swe">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    
+  </a>
   <a href="mailto:amalalharthi193@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -52,11 +34,7 @@ I build clean, responsive web interfaces and enjoy turning designs into producti
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-
 ### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
